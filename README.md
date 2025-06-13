@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KindStarWonder
-- 👀 I’m interested in Eve Online, philosophy, roguelikes, and Christian theosophy.
-- 🌱 I’m currently learning disassembly and reverse engineering.
-- 💞️ I’m looking to collaborate on Eve Online tools, AGI, or REALLY heady fringe comp sci stuff.
+- 👀 I’m interested in astronomy, game theory, philosophy, and Christian theosophy.
+- 🌱 I’m currently learning everything I can.
+- 💞️ I’m looking to collaborate on think tanks, AGI, or really heady fringe comp sci stuff.
 - 📫 How to reach me kindstarwonder@protonmail.com
-- 😄 Pronouns: He/Him/C++/Arch
-- ⚡ Fun fact: I am a fun and silly person with a deep and serious mind and a cat dad.
+- 😄 Pronouns: C++/Arch
+- ⚡ Fun fact: I am a fun person with a serious mind.
 
 <!---
 KindStarWonder/KindStarWonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
