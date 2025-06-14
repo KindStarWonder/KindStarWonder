@@ -9,13 +9,20 @@ I'm a **System Administrator** and developer passionate about building secure, s
 - 🧠 **Interests**: Exploring metaphysics, philosophy, and cutting-edge tech like AGI, alongside practical security and automation solutions.
 - 🎮 **Hobbies**: Strategizing in **Eve Online**, building efficient systems in virtual and real-world environments.
 - 📫 **Contact**: [kindstarwonder@protonmail.com](mailto:kindstarwonder@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/sebastien-tides/)
-- 🐧 **Environment**: Arch Linux, Windows 11, **Windows Server**, **Azure**, PowerShell, Bash, C++, Python, Visual Studio Code, SQL Server Management Studio.
+- 🐧 **Environment**: Arch Linux, Windows 11, Windows Server, Azure, PowerShell, Bash, C++, Python, Visual Studio Code, SQL Server Management Studio.
 
 ## Career Goals
 As an intermediate System Administrator based in Montana, I aim to advance in roles leveraging **Azure**, **PowerShell automation**, **SQL Server**, and **compliance** expertise. I seek opportunities with a salary range of **$90,000–$100,000**, reflecting my extensive skillset and ability to deliver secure, automated solutions for hybrid environments.
 
 ## Skills
 My extensive skillset is grouped into categories to showcase my expertise across system administration, security, databases, networking, cloud, development, and client collaboration. Each badge represents a tool, technology, or task applied professionally, totaling ~244 skills to highlight my comprehensive experience.
+
+**Badge Legend**: Badges are colored by theme: **Blue** for tools/technologies, **Green** for management tasks, **Orange** for troubleshooting/deployment, **Purple** for automation/optimization, **Lightgrey** for platforms/miscellaneous, with **Red**/**Black** for specific certifications/tools (e.g., Security+, AlienVault).
+
+**Badge Distribution**: Below are pie charts showing the distribution of badges by color and category heading.
+
+![Badge Color Distribution](https://chart.googleapis.com/chart?cht=p&chs=300x150&chd=t:37.3,27.5,19.7,9.8,4.1,0.8,0.8&chl=Blue|Green|Orange|Purple|Lightgrey|Red|Black&chco=0000FF,008000,FFA500,800080,D3D3D3,FF0000,000000&chtt=Badge+Color+Distribution)
+![Badge Category Distribution](https://chart.googleapis.com/chart?cht=p&chs=300x150&chd=t:27.5,18.9,11.9,6.6,12.3,11.9,11.9&chl=SysAdmin|Security|Database|Networking|Cloud|Development|Client&chco=1F77B4,FF7F0E,2CA02C,D62728,9467BD,8C564B,E377C2&chtt=Badge+Category+Distribution)
 
 ### System Administration
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity-blue)
