@@ -1,18 +1,21 @@
 # Sebastien Tides (KindStarWonder) 🖥️
 
-I'm a **System Administrator** and developer with a passion for building secure, scalable, and automated IT systems. My expertise spans **Azure**, **Active Directory**, **SQL Server**, **PowerShell automation**, and **compliance-driven security** (NIST SP 800-53, SOC audits). From managing hybrid environments to troubleshooting DoForms integrations, I thrive on solving complex challenges. Explore my portfolio at [kindstarwonder.github.io](https://kindstarwonder.github.io) for project demos and insights into my work.
+I'm a **System Administrator** and developer passionate about building secure, scalable, and automated IT systems. My expertise spans **Azure**, **Active Directory**, **SQL Server**, **PowerShell automation**, and **compliance-driven security** (NIST SP 800-53, SOC audits). I excel at automating complex workflows and bridging technical and client needs to deliver secure, compliant solutions. From managing hybrid environments to troubleshooting DoForms integrations, I thrive on solving complex challenges. Explore my portfolio at [kindstarwonder.github.io](https://kindstarwonder.github.io) for project demos, tech insights, and a blog on my work.
 
 ## About Me
-- 💼 **Role**: System Administrator, managing Windows Server 2022, Azure, Entra ID, Exchange, and SQL Server in hybrid environments. Skilled in automation, compliance, and cross-functional IT operations.
+- 💼 **Role**: System Administrator at GL Solutions, managing Windows Server 2022, Azure, Entra ID, Exchange, and SQL Server in hybrid environments. Skilled in automation, compliance, and cross-functional IT operations.
 - 🎓 **Education**: Ivy Tech Community College, pursuing **Cyber Security** and **Programming** to enhance my technical and security expertise.
 - 🔒 **Certifications**: CompTIA **Security+**, **Linux+**, **Network+**, **A+**; LinkedIn Skill Assessment in **C**.
-- 🧠 **Interests**: Diving into metaphysics, philosophy, and cutting-edge tech like AGI, alongside practical security and automation solutions.
+- 🧠 **Interests**: Exploring metaphysics, philosophy, and cutting-edge tech like AGI, alongside practical security and automation solutions.
 - 🎮 **Hobbies**: Strategizing in **Eve Online**, building efficient systems in virtual and real-world environments.
 - 📫 **Contact**: [kindstarwonder@protonmail.com](mailto:kindstarwonder@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/sebastien-tides/)
-- 🐧 **Environment**: Arch Linux, Windows 11, PowerShell, Bash, C++, Python, Visual Studio Code, SQL Server Management Studio.
+- 🐧 **Environment**: Arch Linux, Windows 11, **Windows Server**, **Azure**, PowerShell, Bash, C++, Python, Visual Studio Code, SQL Server Management Studio.
+
+## Career Goals
+As an intermediate System Administrator based in Montana, I aim to advance in roles leveraging **Azure**, **PowerShell automation**, **SQL Server**, and **compliance** expertise. I seek opportunities with a salary range of **$90,000–$100,000**, reflecting my extensive skillset and ability to deliver secure, automated solutions for hybrid environments.
 
 ## Skills
-My extensive skillset is grouped into categories to showcase my expertise across system administration, security, databases, networking, cloud, development, and client collaboration. Each badge represents a tool, technology, or task I’ve applied professionally.
+My extensive skillset is grouped into categories to showcase my expertise across system administration, security, databases, networking, cloud, development, and client collaboration. Each badge represents a tool, technology, or task applied professionally, totaling ~244 skills to highlight my comprehensive experience.
 
 ### System Administration
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity-blue)
@@ -34,8 +37,7 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Windows Administration](https://img.shields.io/badge/Windows-Administration-green)
 ![Console Customization](https://img.shields.io/badge/Console-Customization-purple)
 ![Exchange](https://img.shields.io/badge/Exchange-Email-orange)
-![Exchange Distribution Lists](https://img.shields.io/badge/Exchange-Distribution%20Lists-blue)
-![Email Group Management](https://img.shields.io/badge/Email-Group%20Management-green)
+![Exchange Group Management](https://img.shields.io/badge/Exchange-Group%20Management-blue)
 ![Exchange Automation](https://img.shields.io/badge/Exchange-Automation-purple)
 ![Public Folder Troubleshooting](https://img.shields.io/badge/Public%20Folder-Troubleshooting-blue)
 ![Outlook Support](https://img.shields.io/badge/Outlook-Support-green)
@@ -82,11 +84,13 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Stack Modernization](https://img.shields.io/badge/Stack-Modernization%20Recs-orange)
 ![Microsoft License Provisioning](https://img.shields.io/badge/Microsoft%20License-Provisioning-blue)
 ![CEO AD Task Oversight](https://img.shields.io/badge/CEO%20AD-Task%20Oversight-blue)
-![DPM Backup Monitoring](https://img.shields.io/badge/DPM-Backup%20Monitoring-green)
+![Backup Monitoring](https://img.shields.io/badge/Backup-Monitoring-green)
 ![PXE Server Setup](https://img.shields.io/badge/PXE%20Server-Setup-blue)
 ![DFS Replication Monitoring](https://img.shields.io/badge/DFS-Replication%20Monitoring-green)
 ![Ubuntu Syslog Update](https://img.shields.io/badge/Ubuntu-Syslog%20Update-blue)
 ![HyperV VM Migration](https://img.shields.io/badge/HyperV-VM%20Migration-blue)
+![Font Installation](https://img.shields.io/badge/Font%20Installation-Application%20Server-blue)
+![Repository Purging](https://img.shields.io/badge/Repository-Purging%20DEV%2FSYS-purple)
 
 ### Security & Compliance
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-red)
@@ -106,9 +110,8 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![SSL/TLS Updates](https://img.shields.io/badge/SSL%2FTLS-Updates-orange)
 ![Kemp LoadMaster](https://img.shields.io/badge/Kemp-LoadMaster-lightgrey)
 ![Certificate Automation](https://img.shields.io/badge/Certificate-Automation-purple)
-![Certificate Installation](https://img.shields.io/static/v1?label=Certificate%20Installation&message=PKI&color=purple)
+![Certificate Deployment](https://img.shields.io/badge/Certificate-Deployment%20PKI-purple)
 ![PEM to PFX Conversion](https://img.shields.io/badge/PEM%20to%20PFX-OpenSSL-orange)
-![Certificate Signing Requests](https://img.shields.io/badge/Certificate%20Signing-Requests-blue)
 ![SNI Configuration](https://img.shields.io/badge/SNI%20Configuration-Server-green)
 ![DMARC Monitoring](https://img.shields.io/badge/DMARC-Monitoring-blue)
 ![Email Security](https://img.shields.io/badge/Email-Security-green)
@@ -130,7 +133,6 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![HackerGuardian PCI](https://img.shields.io/badge/HackerGuardian%20PCI-Scanning-blue)
 ![AlienVault](https://img.shields.io/badge/AlienVault-SIEM-black)
 ![WatchGuard FireBox](https://img.shields.io/badge/WatchGuard-FireBox%20Management-orange)
-![Repository Purging](https://img.shields.io/badge/Repository-Purging%20DEV%2FSYS-purple)
 ![Personnel Info Destruction](https://img.shields.io/badge/Personnel%20Info-Destruction%205Y-orange)
 ![Open ID Federation](https://img.shields.io/badge/Open%20ID-Federation-green)
 ![PCI Cipher Suite Fix](https://img.shields.io/badge/PCI%20Cipher-Suite%20Fix-purple)
@@ -142,6 +144,7 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Defender Remediation](https://img.shields.io/badge/Defender-Remediation%20Cloud-orange)
 ![SQL Injection Response](https://img.shields.io/badge/SQL%20Injection-Response-orange)
 ![Azure Adaptive Controls](https://img.shields.io/badge/Azure-Adaptive%20Controls-purple)
+![Compliance Portfolio](https://img.shields.io/badge/Compliance-Portfolio-green)
 
 ### Database Management
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-purple)
@@ -152,11 +155,10 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Database Sync Check](https://img.shields.io/badge/Database-Sync%20Check-blue)
 ![Report Database Monitoring](https://img.shields.io/badge/Report%20Database-Monitoring-green)
 ![SQL Server Reporting](https://img.shields.io/badge/SQL%20Server-Reporting-orange)
-![SQL Server Job Monitoring](https://img.shields.io/badge/SQL%20Server%20Job-Monitoring-blue)
+![SQL Job Management](https://img.shields.io/badge/SQL%20Job-Management-blue)
 ![SQL Query Optimization](https://img.shields.io/badge/SQL%20Query-Optimization-purple)
 ![SQL Server Index Optimization](https://img.shields.io/badge/SQL%20Server%20Index-Optimization-blue)
 ![SQL Server Log Management](https://img.shields.io/badge/SQL%20Server%20Log-Management-green)
-![Database Backup Monitoring](https://img.shields.io/badge/Database%20Backup-Monitoring-orange)
 ![Database Encryption](https://img.shields.io/badge/Database%20Encryption-SQL%20Server-red)
 ![RedGate SQL Monitor](https://img.shields.io/badge/RedGate%20SQL%20Monitor-Database-blue)
 ![RedGate LRS Task Creation](https://img.shields.io/badge/RedGate%20LRS-Task%20Creation-blue)
@@ -171,7 +173,6 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Database Shrinking](https://img.shields.io/badge/Database-Shrinking-green)
 ![SSMS](https://img.shields.io/badge/SSMS-Installation%2FUse-blue)
 ![SSRS](https://img.shields.io/badge/SSRS-Installation%2FUse-green)
-![SQL Duplicate Jobs](https://img.shields.io/badge/SQL%20Duplicate-Jobs%20Check-green)
 ![Custom Indices Migration](https://img.shields.io/badge/Custom%20Indices-Migration-blue)
 ![Recurring Task Procedures](https://img.shields.io/badge/Recurring%20Task-Procedures%20SQL-purple)
 ![Stored Procedure Scripting](https://img.shields.io/badge/Stored%20Procedure-Scripting%20Metasync-purple)
@@ -227,9 +228,10 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Azure Virtual Servers](https://img.shields.io/badge/Azure-Virtual%20Servers-blue)
 ![Azure Email Reports](https://img.shields.io/badge/Azure-Email%20Reports-green)
 ![ADB2C Custom Flows](https://img.shields.io/badge/ADB2C-Custom%20Flows-orange)
+![Automation Projects](https://img.shields.io/badge/Automation-Projects-purple)
 
 ### Development & Tools
-![Python](https://img.shields.io/badge/Python-3.11-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![C++](https://img.shields.io/badge/C++-20-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-orange)
 ![ncurses](https://img.shields.io/badge/ncurses-Terminal-green)
@@ -241,9 +243,8 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Power BI Workspaces](https://img.shields.io/badge/Power%20BI-Workspaces-green)
 ![Power BI Datasources](https://img.shields.io/badge/Power%20BI-Datasources-purple)
 ![Power BI AD User Access](https://img.shields.io/badge/Power%20BI%20AD-User%20Access-orange)
-![DoForms Migration](https://img.shields.io/badge/DoForms-Migration-blue)
+![DoForms Data Migration](https://img.shields.io/badge/DoForms-Data%20Migration-blue)
 ![Back-Office Integration](https://img.shields.io/badge/Back--Office-Integration-green)
-![Data Transfer](https://img.shields.io/badge/Data-Transfer-orange)
 ![Cloud Sync](https://img.shields.io/badge/Cloud-Sync-lightgrey)
 ![Sync & Save](https://img.shields.io/badge/Sync%20&%20Save-blue)
 ![Data Sync Errors](https://img.shields.io/badge/Data-Sync%20Errors-green)
@@ -269,8 +270,6 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Session State Timeout](https://img.shields.io/badge/Session%20State-Timeout%20Settings-blue)
 ![MaxRequestLength](https://img.shields.io/badge/MaxRequestLength-Configuration-green)
 ![AppSettings Configuration](https://img.shields.io/badge/AppSettings-Configuration-blue)
-![Font Installation](https://img.shields.io/badge/Font%20Installation-Application%20Server-blue)
-![Report Formatting](https://img.shields.io/badge/Report%20Formatting-Configuration-green)
 ![Batch Processor Install](https://img.shields.io/badge/Batch%20Processor-Install%20IIS-orange)
 ![SaaS MIME Issues](https://img.shields.io/badge/SaaS-MIME%20Issues-orange)
 ![PassKit Integration](https://img.shields.io/badge/PassKit-Wallet%20Cards-orange)
@@ -287,14 +286,14 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![SaaS Onboarding](https://img.shields.io/badge/SaaS%20Onboarding-Azure-orange)
 ![SharePoint](https://img.shields.io/badge/SharePoint-Collaboration-green)
 ![SharePoint Onboarding](https://img.shields.io/badge/SharePoint-Onboarding-green)
-![SharePoint Wiki Configuration](https://img.shields.io/badge/SharePoint%20Wiki-Configuration-purple)
+![SharePoint Wiki Management](https://img.shields.io/badge/SharePoint%20Wiki-Management-blue)
 ![SharePoint Procedure Updates](https://img.shields.io/badge/SharePoint%20Procedure-Updates-blue)
 ![Teams](https://img.shields.io/badge/Teams-Communication-blue)
 ![Teams Meeting Troubleshooting](https://img.shields.io/badge/Teams%20Meeting-Troubleshooting-blue)
 ![Teams AutoAttendant Configuration](https://img.shields.io/badge/Teams%20AutoAttendant-Configuration-blue)
 ![Data Integration](https://img.shields.io/badge/Data%20Integration-FTP%2FAPI-green)
 ![Connection Configuration](https://img.shields.io/badge/Connection%20Config-Credentials-orange)
-![FTP Onboarding](https://img.shields.io/badge/FTP-Onboarding-orange)
+![FTP Onboarding](https://img.shields.io/badge/FTP%20Onboarding-orange)
 ![AppPool Mailbox Setup](https://img.shields.io/badge/AppPool%20Mailbox-Email%20Papertrail-blue)
 ![Webflows Document Upload](https://img.shields.io/badge/Webflows%20Document-Upload-green)
 ![DotCom Monitoring](https://img.shields.io/badge/DotCom%20Monitoring-Outage%20Response-blue)
@@ -309,13 +308,13 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![SMTP Server Configuration](https://img.shields.io/badge/SMTP%20Server-Configuration-green)
 ![MS 365 Inbound Connector](https://img.shields.io/badge/MS%20365%20Inbound-Connector-orange)
 ![Fileshare Backup](https://img.shields.io/badge/Fileshare-Backup-orange)
-![SharePoint Wiki Updates](https://img.shields.io/badge/SharePoint%20Wiki-Process%20Updates-blue)
 ![Interdepartment Liaison](https://img.shields.io/badge/Interdepartment-Liaison-green)
 ![Client Hosted Infrastructure](https://img.shields.io/badge/Client%20Hosted-Infrastructure-blue)
-![GLSuite Go Live](https://img.shields.io/badge/GLSuite-Go%20Live-blue)
+![SaaS Platform Go Live](https://img.shields.io/badge/SaaS%20Platform-Go%20Live-blue)
+![Report Formatting](https://img.shields.io/badge/Report%20Formatting-Configuration-green)
 
 ## Key Projects
-Below are highlights of projects showcasing my extensive system administration, security, and automation skills. Full details on [kindstarwonder.github.io](https://kindstarwonder.github.io).
+Below are highlights of projects showcasing my system administration, security, automation, and client collaboration skills. Full details on [kindstarwonder.github.io](https://kindstarwonder.github.io).
 
 - **Azure Automation Pipeline**: Developed a GitHub Actions workflow to automate certificate updates for Kemp LoadMaster and Azure Key Vault, reducing manual effort by 80%.  
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-purple)
@@ -328,7 +327,7 @@ Below are highlights of projects showcasing my extensive system administration, 
   ![Compliance Assurance](https://img.shields.io/badge/Compliance-Assurance-orange)
 
 - **DoForms Migration & Sync Tool**: Automated DoForms job migrations to SQL Server with Sync & Save integration, resolving WSDL and submission issues.  
-  ![DoForms Migration](https://img.shields.io/badge/DoForms-Migration-blue)
+  ![DoForms Data Migration](https://img.shields.io/badge/DoForms-Data%20Migration-blue)
   ![Sync & Save](https://img.shields.io/badge/Sync%20&%20Save-blue)
   ![WSDL Troubleshooting](https://img.shields.io/badge/WSDL-Troubleshooting-blue)
 
@@ -338,7 +337,7 @@ Below are highlights of projects showcasing my extensive system administration, 
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-purple)
 
 - **Exchange & AD Automation**: Developed scripts to automate Exchange distribution list updates and AD role changes for employee promotions, streamlining operations.  
-  ![Exchange Distribution Lists](https://img.shields.io/badge/Exchange-Distribution%20Lists-blue)
+  ![Exchange Group Management](https://img.shields.io/badge/Exchange-Group%20Management-blue)
   ![Active Directory Updates](https://img.shields.io/badge/Active%20Directory-Updates-blue)
   ![AD Automation](https://img.shields.io/badge/AD-Automation-purple)
 
@@ -347,25 +346,42 @@ Below are highlights of projects showcasing my extensive system administration, 
   ![HP Smart Storage](https://img.shields.io/badge/HP-Smart%20Storage-green)
   ![System Reliability](https://img.shields.io/badge/System-Reliability-lightgrey)
 
+- **Incident Response Automation**: Developed PowerShell scripts to integrate Azure Monitor Alerts with Systems Alerts email parsing, reducing incident response time by 60%.  
+  ![Azure Monitor Alert](https://img.shields.io/badge/Azure%20Monitor-Alert%20Review-blue)
+  ![Alert Automation](https://img.shields.io/badge/Alert-Automation-purple)
+  ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-Security-orange)
+
+- **SaaS Platform Go-Live Optimization**: Streamlined SaaS platform go-live processes with automated SQL updates and IIS configurations, ensuring zero downtime for 50 client deployments.  
+  ![SaaS Platform Go Live](https://img.shields.io/badge/SaaS%20Platform-Go%20Live-blue)
+  ![SQL Database Deployment](https://img.shields.io/badge/SQL%20Database-Deployment-green)
+  ![IIS](https://img.shields.io/badge/IIS-Web%20Server-blue)
+
 ## Professional Experience
 - **System Administrator, GL Solutions** (2023–Present)  
-  - Manage **Active Directory**, **Entra ID**, **Windows Server 2022**, **Exchange**, and **SQL Server** in hybrid environments, using **PowerShell**, **SysInternals**, **WSUS**, and **RedGate SQL Monitor** for automation and monitoring.  
-  - Implement **IAM/RBAC**, **Network Security Groups**, and **KQL log querying** for secure access; ensure **SOC audits**, **NIST SP 800-53**, and **VITA compliance** with **Microsoft Defender**, **AlienVault**, and **CVE patching**.  
-  - Monitor **Systems Alerts email inbox**, update **Kemp LoadMaster certificates**, troubleshoot **DMARC reports**, and scrub **PII** from DEV/SYS environments for compliance.  
-  - Automate **SQL Server sync** (transactional/metadata), **DoForms migrations**, and **report database checks**; resolve **WSDL issues** and **Sync & Save errors** for DoForms integrations.  
+  **Key Responsibilities**:  
+  - Manage **Active Directory**, **Entra ID**, **Windows Server 2022**, **Exchange**, and **SQL Server** in hybrid environments using **PowerShell**, **SysInternals**, **WSUS**, and **RedGate SQL Monitor**.  
+  - Monitor **Systems Alerts email inbox**, update **Kemp LoadMaster certificates**, troubleshoot **DMARC reports**, and scrub **PII** from DEV/SYS environments.  
+  - Automate **SQL Server sync** (transactional/metadata), **DoForms migrations**, and **report database checks**; resolve **WSDL issues** and **Sync & Save errors**.  
   - Perform **AD updates** for promotions, manage **Exchange distribution lists**, troubleshoot **public folder access**, and monitor **laptop resources** for remote work.  
-  - Maintain **RAID drives** with HP Smart Storage, enable **BitLocker** with key storage, update **Windows Management Console**, and configure **IIS**, **SharePoint**, and **Teams**.  
-  - Conduct **network diagnostics** (netstat -ano), troubleshoot **port exhaustion**, manage **Azure migrations**, and support **client onboarding/offboarding** with **FTP**, **SMTP**, and **Power BI**.  
+  - Maintain **RAID drives** with HP Smart Storage, enable **BitLocker**, update **Windows Management Console**, and configure **IIS**, **SharePoint**, and **Teams**.  
+  - Conduct **network diagnostics**, troubleshoot **port exhaustion**, manage **Azure migrations**, and support **client onboarding/offboarding**.  
+
+  **Achievements**:  
+  - Successfully migrated and onboarded 50 clients from on-premises to Azure, managing complex infrastructure for seamless transitions.  
+  - Streamlined system administration tasks with PowerShell automation, improving operational efficiency across hybrid environments.  
+  - Enhanced security and compliance by implementing PII scrubbing and NIST SP 800-53 standards in DEV/SYS environments.  
+  - Optimized SQL Server performance through sync automation and index migrations, supporting client go-live operations.  
 
 - **Quality Assurance Specialist, GL Solutions** (2021–2023)  
-  - Validated software solutions through quantitative business process testing, ensuring high-quality deployments for client applications.
+  - Validated software solutions through quantitative business process testing, ensuring high-quality client deployments.
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kindstarwonder&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kindstarwonder&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kindstarwonder&theme=dark)
 
 ## Get in Touch
-I’m eager to collaborate on **system administration**, **security**, **automation**, or **philosophical tech projects** (e.g., AGI, secure systems). Connect via [LinkedIn](https://www.linkedin.com/in/sebastien-tides/) or email [kindstarwonder@protonmail.com](mailto:kindstarwonder@protonmail.com). Visit [kindstarwonder.github.io](https://kindstarwonder.github.io) for more!
+I’m eager to collaborate on **system administration**, **security**, **automation**, or **philosophical tech projects** (e.g., AGI, secure systems). Interested in PowerShell automation or Azure security? Check my repos or DM me! Connect via [LinkedIn](https://www.linkedin.com/in/sebastien-tides/) or email [kindstarwonder@protonmail.com](mailto:kindstarwonder@protonmail.com). Visit [kindstarwonder.github.io](https://kindstarwonder.github.io) for more!
 
 ## Licensing
 Code is licensed under [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) to promote open collaboration. Non-code assets (e.g., bio, images) are under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) for protection.
