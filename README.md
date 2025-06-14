@@ -21,8 +21,8 @@ My extensive skillset is grouped into categories to showcase my expertise across
 
 **Badge Distribution**: Below are pie charts showing the distribution of badges by color and category heading.
 
-![Badge Color Distribution](images/badge_color_distribution.png)
-![Badge Category Distribution](images/badge_category_distribution.png)
+![Badge Color Distribution](badge_color_distribution.png)
+![Badge Category Distribution](badge_category_distribution.png)
 
 ### System Administration
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity-blue)
