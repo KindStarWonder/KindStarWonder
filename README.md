@@ -3,7 +3,7 @@
 I'm a **System Administrator** and developer with a passion for building secure, scalable, and automated IT systems. My expertise spans **Azure**, **Active Directory**, **SQL Server**, **PowerShell automation**, and **compliance-driven security** (NIST SP 800-53, SOC audits). From managing hybrid environments to troubleshooting DoForms integrations, I thrive on solving complex challenges. Explore my portfolio at [kindstarwonder.github.io](https://kindstarwonder.github.io) for project demos and insights into my work.
 
 ## About Me
-- 💼 **Role**: System Administrator at GL Solutions, managing Windows Server 2022, Azure, Entra ID, Exchange, and SQL Server in hybrid environments. Skilled in automation, compliance, and cross-functional IT operations.
+- 💼 **Role**: System Administrator, managing Windows Server 2022, Azure, Entra ID, Exchange, and SQL Server in hybrid environments. Skilled in automation, compliance, and cross-functional IT operations.
 - 🎓 **Education**: Ivy Tech Community College, pursuing **Cyber Security** and **Programming** to enhance my technical and security expertise.
 - 🔒 **Certifications**: CompTIA **Security+**, **Linux+**, **Network+**, **A+**; LinkedIn Skill Assessment in **C**.
 - 🧠 **Interests**: Diving into metaphysics, philosophy, and cutting-edge tech like AGI, alongside practical security and automation solutions.
