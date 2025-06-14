@@ -76,6 +76,17 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Hardware Upgrades](https://img.shields.io/badge/Hardware%20Upgrades-HDD-green)
 ![BIOS Updates](https://img.shields.io/badge/BIOS%20Updates-Firmware-orange)
 ![System Inventory Management](https://img.shields.io/badge/System%20Inventory-Management-purple)
+![Disaster Recovery Refresh](https://img.shields.io/badge/Disaster%20Recovery-Refresh-blue)
+![Code Escrow](https://img.shields.io/badge/Code-Escrow%20Backup-blue)
+![ODT XML Configuration](https://img.shields.io/badge/ODT%20XML-Configuration-blue)
+![Stack Modernization](https://img.shields.io/badge/Stack-Modernization%20Recs-orange)
+![Microsoft License Provisioning](https://img.shields.io/badge/Microsoft%20License-Provisioning-blue)
+![CEO AD Task Oversight](https://img.shields.io/badge/CEO%20AD-Task%20Oversight-blue)
+![DPM Backup Monitoring](https://img.shields.io/badge/DPM-Backup%20Monitoring-green)
+![PXE Server Setup](https://img.shields.io/badge/PXE%20Server-Setup-blue)
+![DFS Replication Monitoring](https://img.shields.io/badge/DFS-Replication%20Monitoring-green)
+![Ubuntu Syslog Update](https://img.shields.io/badge/Ubuntu-Syslog%20Update-blue)
+![HyperV VM Migration](https://img.shields.io/badge/HyperV-VM%20Migration-blue)
 
 ### Security & Compliance
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-red)
@@ -118,6 +129,19 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Security-blue)
 ![HackerGuardian PCI](https://img.shields.io/badge/HackerGuardian%20PCI-Scanning-blue)
 ![AlienVault](https://img.shields.io/badge/AlienVault-SIEM-black)
+![WatchGuard FireBox](https://img.shields.io/badge/WatchGuard-FireBox%20Management-orange)
+![Repository Purging](https://img.shields.io/badge/Repository-Purging%20DEV%2FSYS-purple)
+![Personnel Info Destruction](https://img.shields.io/badge/Personnel%20Info-Destruction%205Y-orange)
+![Open ID Federation](https://img.shields.io/badge/Open%20ID-Federation-green)
+![PCI Cipher Suite Fix](https://img.shields.io/badge/PCI%20Cipher-Suite%20Fix-purple)
+![InTune BYOD](https://img.shields.io/badge/InTune-BYOD%20Protection-blue)
+![Clean Desk Policy Audit](https://img.shields.io/badge/Clean%20Desk-Policy%20Audit-green)
+![IP Blacklisting](https://img.shields.io/badge/IP-Blacklisting%20FireBox-orange)
+![Azure VM Encryption](https://img.shields.io/badge/Azure%20VM-Encryption%20Host-blue)
+![Incident Response Tabletop](https://img.shields.io/badge/Incident%20Response-Tabletop-green)
+![Defender Remediation](https://img.shields.io/badge/Defender-Remediation%20Cloud-orange)
+![SQL Injection Response](https://img.shields.io/badge/SQL%20Injection-Response-orange)
+![Azure Adaptive Controls](https://img.shields.io/badge/Azure-Adaptive%20Controls-purple)
 
 ### Database Management
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-purple)
@@ -147,6 +171,11 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Database Shrinking](https://img.shields.io/badge/Database-Shrinking-green)
 ![SSMS](https://img.shields.io/badge/SSMS-Installation%2FUse-blue)
 ![SSRS](https://img.shields.io/badge/SSRS-Installation%2FUse-green)
+![SQL Duplicate Jobs](https://img.shields.io/badge/SQL%20Duplicate-Jobs%20Check-green)
+![Custom Indices Migration](https://img.shields.io/badge/Custom%20Indices-Migration-blue)
+![Recurring Task Procedures](https://img.shields.io/badge/Recurring%20Task-Procedures%20SQL-purple)
+![Stored Procedure Scripting](https://img.shields.io/badge/Stored%20Procedure-Scripting%20Metasync-purple)
+![SQL Denormalization](https://img.shields.io/badge/SQL-Denormalization%20Recs-purple)
 
 ### Networking & Load Balancing
 ![Network Diagnostics](https://img.shields.io/badge/Network-Diagnostics-blue)
@@ -164,6 +193,8 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![Client Network Troubleshooting](https://img.shields.io/badge/Client%20Network-Troubleshooting-blue)
 ![External Network Diagnostics](https://img.shields.io/badge/External%20Diagnostics-purple)
 ![Internet Weather Diagnosis](https://img.shields.io/badge/Internet%20Weather-Diagnosis-purple)
+![Ethernet Cable Recrimping](https://img.shields.io/badge/Ethernet%20Cable-Recrimping-green)
+![Sticky IP DNS](https://img.shields.io/badge/Sticky%20IP-DNS-blue)
 
 ### Cloud & Automation
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
@@ -188,6 +219,14 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![AD Automation](https://img.shields.io/badge/AD-Automation-purple)
 ![SaaS Software Updates](https://img.shields.io/badge/SaaS%20Software-Updates-blue)
 ![Promotable Tasks Deployment](https://img.shields.io/badge/Promotable%20Tasks-Deployment-green)
+![File Tracking Scripts](https://img.shields.io/badge/File%20Tracking-PowerShell%20Incremental-purple)
+![Azure Direct Backup](https://img.shields.io/badge/Azure%20Direct-Backup-green)
+![Azure PowerShell CLI](https://img.shields.io/badge/Azure-PowerShell%20CLI-purple)
+![Azure Monitor Alert](https://img.shields.io/badge/Azure%20Monitor-Alert%20Review-blue)
+![Azure Recovery Testing](https://img.shields.io/badge/Azure%20Recovery-Testing-green)
+![Azure Virtual Servers](https://img.shields.io/badge/Azure-Virtual%20Servers-blue)
+![Azure Email Reports](https://img.shields.io/badge/Azure-Email%20Reports-green)
+![ADB2C Custom Flows](https://img.shields.io/badge/ADB2C-Custom%20Flows-orange)
 
 ### Development & Tools
 ![Python](https://img.shields.io/badge/Python-3.11-yellow)
@@ -232,6 +271,12 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![AppSettings Configuration](https://img.shields.io/badge/AppSettings-Configuration-blue)
 ![Font Installation](https://img.shields.io/badge/Font%20Installation-Application%20Server-blue)
 ![Report Formatting](https://img.shields.io/badge/Report%20Formatting-Configuration-green)
+![Batch Processor Install](https://img.shields.io/badge/Batch%20Processor-Install%20IIS-orange)
+![SaaS MIME Issues](https://img.shields.io/badge/SaaS-MIME%20Issues-orange)
+![PassKit Integration](https://img.shields.io/badge/PassKit-Wallet%20Cards-orange)
+![Flatfile Interfaces](https://img.shields.io/badge/Flatfile-Interfaces%20Troubleshoot-orange)
+![NXLog Setup](https://img.shields.io/badge/NXLog-IIS%20Log%20Forwarding-blue)
+![Azure C# JWT Function](https://img.shields.io/badge/Azure%20C%23-JWT%20Function-blue)
 
 ### Client & Collaboration
 ![Client Onboarding](https://img.shields.io/badge/Client%20Onboarding-Web%20Apps-green)
@@ -264,6 +309,10 @@ My extensive skillset is grouped into categories to showcase my expertise across
 ![SMTP Server Configuration](https://img.shields.io/badge/SMTP%20Server-Configuration-green)
 ![MS 365 Inbound Connector](https://img.shields.io/badge/MS%20365%20Inbound-Connector-orange)
 ![Fileshare Backup](https://img.shields.io/badge/Fileshare-Backup-orange)
+![SharePoint Wiki Updates](https://img.shields.io/badge/SharePoint%20Wiki-Process%20Updates-blue)
+![Interdepartment Liaison](https://img.shields.io/badge/Interdepartment-Liaison-green)
+![Client Hosted Infrastructure](https://img.shields.io/badge/Client%20Hosted-Infrastructure-blue)
+![GLSuite Go Live](https://img.shields.io/badge/GLSuite-Go%20Live-blue)
 
 ## Key Projects
 Below are highlights of projects showcasing my extensive system administration, security, and automation skills. Full details on [kindstarwonder.github.io](https://kindstarwonder.github.io).
